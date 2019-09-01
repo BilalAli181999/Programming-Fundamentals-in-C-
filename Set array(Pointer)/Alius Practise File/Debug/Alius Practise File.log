@@ -1,0 +1,7 @@
+﻿  Practice.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\alius practise file\alius practise file\practice.cpp(87): warning C4715: 'searchElement': not all control paths return a value
+c:\users\fasiha asim\documents\visual studio 2017\projects\alius practise file\alius practise file\practice.cpp(95): warning C4715: 'searchElementPosition': not all control paths return a value
+c:\users\fasiha asim\documents\visual studio 2017\projects\alius practise file\alius practise file\practice.cpp(100): warning C4715: 'isEmpty': not all control paths return a value
+c:\users\fasiha asim\documents\visual studio 2017\projects\alius practise file\alius practise file\practice.cpp(105): warning C4715: 'isFull': not all control paths return a value
+  Alius Practise File.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\Alius Practise File\Debug\Alius Practise File.exe
+  Alius Practise File.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\Alius Practise File\Debug\Alius Practise File.pdb (Partial PDB)

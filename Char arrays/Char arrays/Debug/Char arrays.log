@@ -1,0 +1,5 @@
+﻿  MyString.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\other projects\char arrays\char arrays\mystring.cpp(290): warning C4715: 'findChar': not all control paths return a value
+c:\users\fasiha asim\documents\visual studio 2017\projects\other projects\char arrays\char arrays\mystring.cpp(359): warning C4715: 'compare': not all control paths return a value
+  Char arrays.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\Other Projects\Char arrays\Debug\Char arrays.exe
+  Char arrays.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\Other Projects\Char arrays\Debug\Char arrays.pdb (Partial PDB)

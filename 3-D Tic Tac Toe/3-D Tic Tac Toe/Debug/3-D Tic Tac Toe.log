@@ -1,0 +1,6 @@
+﻿  game.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed-pf)\3-d tic tac toe\3-d tic tac toe\game.cpp(735): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  driver.cpp
+  Generating Code...
+  3-D Tic Tac Toe.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\PROJECTS 2ND SEMESTER (SIR FAREED-PF)\3-D Tic Tac Toe\Debug\3-D Tic Tac Toe.exe
+  3-D Tic Tac Toe.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\PROJECTS 2ND SEMESTER (SIR FAREED-PF)\3-D Tic Tac Toe\Debug\3-D Tic Tac Toe.pdb (Partial PDB)

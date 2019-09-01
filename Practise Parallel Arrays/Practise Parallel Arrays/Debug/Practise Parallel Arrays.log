@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "void __cdecl getPayRate(long * const,double * const,int)" (?getPayRate@@YAXQAJQANH@Z) referenced in function _main
+c:\users\najam\documents\visual studio 2017\Projects\Practise Parallel Arrays\Debug\Practise Parallel Arrays.exe : fatal error LNK1120: 1 unresolved externals

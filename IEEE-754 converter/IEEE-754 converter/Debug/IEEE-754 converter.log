@@ -1,0 +1,10 @@
+﻿  IEEE.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\ieee-754 converter\ieee-754 converter\ieee.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\ieee-754 converter\ieee-754 converter\ieee.cpp(16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\ieee-754 converter\ieee-754 converter\ieee.cpp(47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\ieee-754 converter\ieee-754 converter\ieee.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\ieee-754 converter\ieee-754 converter\ieee.cpp(162): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\ieee-754 converter\ieee-754 converter\ieee.cpp(164): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\ieee-754 converter\ieee-754 converter\ieee.cpp(160): warning C4101: 'result': unreferenced local variable
+  IEEE-754 converter.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\IEEE-754 converter\Debug\IEEE-754 converter.exe
+  IEEE-754 converter.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\IEEE-754 converter\Debug\IEEE-754 converter.pdb (Partial PDB)

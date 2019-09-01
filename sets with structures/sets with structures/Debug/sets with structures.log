@@ -1,0 +1,11 @@
+﻿  sets.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\sets with structures\sets with structures\sets.cpp(215): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  driver.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\sets with structures\sets with structures\driver.cpp(6): warning C4101: 'setClone': unreferenced local variable
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\sets with structures\sets with structures\driver.cpp(6): warning C4101: 'setX': unreferenced local variable
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\sets with structures\sets with structures\driver.cpp(6): warning C4101: 'setUnion': unreferenced local variable
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\sets with structures\sets with structures\driver.cpp(6): warning C4101: 'setDifference': unreferenced local variable
+  Generating Code...
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\sets with structures\sets with structures\sets.cpp(62): warning C4715: 'searchElementPosition': not all control paths return a value
+  sets with structures.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\PROJECTS 2ND SEMESTER (SIR FAREED)\sets with structures\Debug\sets with structures.exe
+  sets with structures.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\PROJECTS 2ND SEMESTER (SIR FAREED)\sets with structures\Debug\sets with structures.pdb (Partial PDB)

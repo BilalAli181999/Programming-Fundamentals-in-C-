@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\set array (alius)\alius 1\source.cpp(88): warning C4715: 'searchElement': not all control paths return a value
+c:\users\fasiha asim\documents\visual studio 2017\projects\set array (alius)\alius 1\source.cpp(96): warning C4715: 'searchElementPosition': not all control paths return a value
+c:\users\fasiha asim\documents\visual studio 2017\projects\set array (alius)\alius 1\source.cpp(121): warning C4715: 'isEmpty': not all control paths return a value
+c:\users\fasiha asim\documents\visual studio 2017\projects\set array (alius)\alius 1\source.cpp(126): warning C4715: 'isFull': not all control paths return a value
+  alius 1.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\Set array (Alius)\Debug\alius 1.exe
+  alius 1.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\Set array (Alius)\Debug\alius 1.pdb (Partial PDB)

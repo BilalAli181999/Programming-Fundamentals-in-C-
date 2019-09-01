@@ -1,0 +1,11 @@
+void start();
+void createSet(int **, int );
+void displaySet(int *, int );
+bool addElement(int *, int *, int , int);
+bool removeElement(int *, int *, int , int );
+bool searchElement(int *, int , int );
+int searchElementPosition(int *, int , int );
+bool isEmpty(int );
+bool isFull(int , int );
+int * intersection(int *, int *, int , int , int *, int *);
+void displayCrossProduct(int *, int *, int , int );

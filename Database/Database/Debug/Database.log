@@ -1,0 +1,7 @@
+﻿  Drive.cpp
+  Database.cpp
+c:\users\najam\documents\visual studio 2017\projects\database\database\database.cpp(84): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\najam\documents\visual studio 2017\projects\database\database\database.cpp(202): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Database.vcxproj -> c:\users\najam\documents\visual studio 2017\Projects\Database\Debug\Database.exe
+  Database.vcxproj -> c:\users\najam\documents\visual studio 2017\Projects\Database\Debug\Database.pdb (Partial PDB)

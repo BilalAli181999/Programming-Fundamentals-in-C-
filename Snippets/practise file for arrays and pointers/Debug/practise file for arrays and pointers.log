@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\snippets\practise file for arrays and pointers\source.cpp(19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\snippets\practise file for arrays and pointers\source.cpp(19): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+c:\users\fasiha asim\documents\visual studio 2017\projects\snippets\practise file for arrays and pointers\source.cpp(19): error C2065: ' ': undeclared identifier
+c:\users\fasiha asim\documents\visual studio 2017\projects\snippets\practise file for arrays and pointers\source.cpp(20): error C2146: syntax error: missing ';' before identifier 'cout'
+c:\users\fasiha asim\documents\visual studio 2017\projects\snippets\practise file for arrays and pointers\source.cpp(21): error C3873: '0xa0': this character is not allowed as a first character of an identifier
+c:\users\fasiha asim\documents\visual studio 2017\projects\snippets\practise file for arrays and pointers\source.cpp(21): error C2065: ' ': undeclared identifier
+c:\users\fasiha asim\documents\visual studio 2017\projects\snippets\practise file for arrays and pointers\source.cpp(22): error C2146: syntax error: missing ';' before identifier 'cout'

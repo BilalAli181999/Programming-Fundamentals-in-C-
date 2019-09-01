@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\ie-754\ie-754\source.cpp(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ie-754.vcxproj -> c:\users\fasiha asim\documents\visual studio 2017\Projects\ie-754\Debug\ie-754.exe
+  ie-754.vcxproj -> c:\users\fasiha asim\documents\visual studio 2017\Projects\ie-754\Debug\ie-754.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+﻿  IEEE.cpp
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\float to binary\float to binary\ieee.cpp(10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\float to binary\float to binary\ieee.cpp(44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\float to binary\float to binary\ieee.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\float to binary\float to binary\ieee.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\float to binary\float to binary\ieee.cpp(216): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\float to binary\float to binary\ieee.cpp(218): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\fasiha asim\documents\visual studio 2017\projects\projects 2nd semester (sir fareed)\float to binary\float to binary\ieee.cpp(214): warning C4101: 'result': unreferenced local variable
+  driver.cpp
+  Generating Code...
+  Float to Binary.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\PROJECTS 2ND SEMESTER (SIR FAREED)\Float to Binary\Debug\Float to Binary.exe
+  Float to Binary.vcxproj -> C:\Users\Fasiha Asim\Documents\Visual Studio 2017\Projects\PROJECTS 2ND SEMESTER (SIR FAREED)\Float to Binary\Debug\Float to Binary.pdb (Partial PDB)

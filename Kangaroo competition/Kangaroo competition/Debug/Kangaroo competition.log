@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\iqra zulqarnain\documents\visual studio 2017\projects\kangaroo competition\kangaroo competition\source.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Kangaroo competition.vcxproj -> c:\users\iqra zulqarnain\documents\visual studio 2017\Projects\Kangaroo competition\Debug\Kangaroo competition.exe
+  Kangaroo competition.vcxproj -> c:\users\iqra zulqarnain\documents\visual studio 2017\Projects\Kangaroo competition\Debug\Kangaroo competition.pdb (Partial PDB)

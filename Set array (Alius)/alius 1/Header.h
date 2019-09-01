@@ -1,0 +1,10 @@
+void start();
+void createSet(int *&, int );
+void displaySet(int *, int );
+bool addElement(int *, int &, int, int);
+bool removeElement(int *, int &, int, int);
+bool addElement(int *, int &, int , int );
+bool removeElement(int *, int &, int, int);
+bool searchElement(int *, int , int );
+int searchElementPosition(int *, int , int );
+int * intersection(int *, int *, int , int , int &, int &);

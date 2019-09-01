@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\iqra zulqarnain\documents\visual studio 2017\projects\lab 7\lab 7\source.cpp(329): warning C4700: uninitialized local variable 'y' used
+  lab 7.vcxproj -> C:\Users\Iqra Zulqarnain\Documents\Visual Studio 2017\Projects\lab 7\Debug\lab 7.exe
+  lab 7.vcxproj -> C:\Users\Iqra Zulqarnain\Documents\Visual Studio 2017\Projects\lab 7\Debug\lab 7.pdb (Partial PDB)
